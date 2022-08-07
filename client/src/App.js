@@ -7,7 +7,7 @@ import TableHead from '@material-ui/core/TableHead';
 import TableBody from '@material-ui/core/TableBody';
 import TableRow from '@material-ui/core/TableRow';
 import TableCell from '@material-ui/core/TableCell';
-import {withStyles} from '@material-ui/core/styles';
+// import {withStyles} from '@material-ui/core/styles';
 
 const customers =[{
   'id': 1,
